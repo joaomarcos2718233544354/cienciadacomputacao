@@ -1,5 +1,7 @@
 **Disciplina:** _CÁLCULO I_
+
 **Periodo:** _1_
+
 **Carga Horária:** _60_
  
 **Ementa:** Revisão dos conteúdos básicos da Matématica, como conjuntos numéricos, produtos notáveis, fatoração, equações, funções, limites, derivadas.
