@@ -1,4 +1,4 @@
-**Máterias do Período:**
+**Máterias do Semestre:**
 
 •	Banco De Dados
 
