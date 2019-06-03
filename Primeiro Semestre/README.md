@@ -1,4 +1,5 @@
-**Matérias do Período**
+**Matérias do Período:**
+
 •	Cálculo I
 
 •	Fundamentos Da Física Para Computação
