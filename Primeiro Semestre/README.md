@@ -1,9 +1,15 @@
-•	CÁLCULO I
-•	FUNDAMENTOS DA FÍSICA PARA COMPUTAÇÃO
-•	INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO
-•	LÓGICA DE PROGRAMAÇÃO E ALGORITMOS
+**Matérias do Período**
+•	Cálculo I
+
+•	Fundamentos Da Física Para Computação
+
+•	Introdução À Ciência Da Computação
+
+•	Lógica De Programação E Algoritmos
+
 •	Metodologia da Pesquisa Cientifica
-•	RELAÇÕES SOCIAIS ÉTNICAS E MEIO AMBIENTE
+
+•	Relações Socias Étnicas E Meio Ambiente
 
 
 
