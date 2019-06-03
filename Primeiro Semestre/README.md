@@ -1,11 +1,11 @@
 **Disciplina
-CH
-Tipo**
+    CH
+    Tipo**
  
 Período 1
-CÁLCULO I	
+   CÁLCULO I	
 60
-Regular
+   Regular
 
 FUNDAMENTOS DA FÍSICA PARA COMPUTAÇÃO	
 60
