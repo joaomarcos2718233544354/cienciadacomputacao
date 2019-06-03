@@ -1,4 +1,4 @@
-**Matérias do Período:**
+**Matérias do Semestre:**
 
 •	Cálculo I
 
