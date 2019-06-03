@@ -6,7 +6,7 @@
 
 •	Circuitos Digitais
 
-•	GEOMETRIA Analítica
+•	Geometria Analítica
 
 •	Linguagem De Programação
 
